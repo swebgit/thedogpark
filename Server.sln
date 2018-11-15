@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tdp.Shared", "Shared\Tdp.Shared\Tdp.Shared.csproj", "{1C162222-9ADC-4C27-BB1C-65B2DA8AFB12}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tdp.Server.AppService", "Server\Tdp.Server.AppService\Tdp.Server.AppService.csproj", "{372D3FCD-D102-4527-AE9F-72DAF7AD1F70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C162222-9ADC-4C27-BB1C-65B2DA8AFB12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C162222-9ADC-4C27-BB1C-65B2DA8AFB12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C162222-9ADC-4C27-BB1C-65B2DA8AFB12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C162222-9ADC-4C27-BB1C-65B2DA8AFB12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{372D3FCD-D102-4527-AE9F-72DAF7AD1F70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{372D3FCD-D102-4527-AE9F-72DAF7AD1F70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{372D3FCD-D102-4527-AE9F-72DAF7AD1F70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{372D3FCD-D102-4527-AE9F-72DAF7AD1F70}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85C4BE57-D530-470A-BACA-D0834901AFE3}
+	EndGlobalSection
+EndGlobal
